@@ -455,14 +455,8 @@ footer{
         width: 400px;
     }
     /* la partie pour le formulaire */
-    .div-vite-contact{
-        height: 100%;
-        width:50%;
-        background-image: url(/image-restaurant/reclamation-image.png);
-        background-size: 330px;
-        background-position: center;
-        background-repeat: no-repeat;
-}
+
+
     .div-contact-formulaire{
         width: 800px;
     }
@@ -546,14 +540,6 @@ footer{
         padding: 15px;
     }
     /*le code pour le formulaire */
-        .div-vite-contact{
-        height: 100%;
-        width:50%;
-        background-image: url(/image-restaurant/reclamation-image.png);
-        background-size: 330px;
-        background-position: center;
-        background-repeat: no-repeat;
-}
     .nous-contacter{
         padding: 10px;
     }
